@@ -1,6 +1,6 @@
 # Jasmine com NODE.JS - Ordem de Leitura:
 
-1. [Ferramentas escolhidas para o Projeto]("/andresilveiraleite/jasmine_nodejs/blob/Ferramentas_escolhidas_ para_o_Projeto.md)
+1. [Ferramentas escolhidas para o Projeto](/andresilveiraleite/jasmine_nodejs/blob/master/Ferramentas_escolhidas_para_o_Projeto.md)
 
 2. Conhecimentos Necessários
 
