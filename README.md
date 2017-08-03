@@ -2,7 +2,7 @@
 
 1. [Ferramentas escolhidas para o Projeto](/Ferramentas_escolhidas_para_o_Projeto.md)
 
-2. Conhecimentos Necessários
+2. [Conhecimentos Necessários](/Conhecimentos_necessários.md)
 
-3. Requisitos do Sistema
+3. [Requisitos do Sistema](/Requisitos do Sistema.md)
 
