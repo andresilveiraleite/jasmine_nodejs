@@ -4,9 +4,4 @@ Noções programação web - html, css.
 
 Java Script básico.
 
-Noções de teste de software.
-
-
-
-
-                                                                [Home](/README.md)
+Noções de teste de software.                    
