@@ -15,3 +15,5 @@
 6. [Como criar suítes e testes?](docs/CriarSuiteseTestes.md)
 
 7. [Como validar e comparar resultados?](docs/ValidarECompararResultados.md)
+
+8. [Exemplos de Comparadores "Matchers"](Comparadores.md)
