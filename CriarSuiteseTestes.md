@@ -17,6 +17,7 @@ Também possui dois parâmetros: Descrição e função.
 Devemos iniciar sempre o it com : "deve"
 
 --> Logo Describe é a suíte e o It são os testes a serem desenvolvidos na suíte.
+
 Ex.: describe("Operação de Adição",function() {
        it("deve garantir 1 + 1 = 2", function(){   --> It = SPEC.
         });
