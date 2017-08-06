@@ -1,5 +1,5 @@
 # Estrutura Jasmine 
-O Jamsmine possui uma estrutura padrão que iremos detalhar logo abaixo.
+O Jasmine possui uma estrutura padrão que iremos detalhar logo abaixo.
 
 lib  > Contém toda a Biblioteca do Jasmine. Nessa pasta teremos tudo que é necessário para que o Jasmine opere com suas principais "features".
 
