@@ -1,5 +1,5 @@
 # Detalhamento dos Comparadores "Matchers" padrões do Jasmine
-1. [toBe](/toBe.md)
+1. [toBe](/docs/toBe.md)
 2. [toEqual](docs/toEqual.md)
 3. [toMatch](docs/toMatch.md)
 4. [toBeDefined](docs/toBeDefined.md)
