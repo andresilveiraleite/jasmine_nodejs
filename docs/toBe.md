@@ -1,5 +1,5 @@
 # Comparador toBe
-Realiza a comparação com o operador '===', que compara o valor e também o tipo do objeto.
+## Realiza a comparação com o operador '===', que compara o valor e também o tipo do objeto.
 Deve ser utilizado para comparar valores de forma mais efetiva pelo fato de também verificar o tipo do objeto.
 
 Ex. do uso do comparador "toBe" validando um "Objeto":
