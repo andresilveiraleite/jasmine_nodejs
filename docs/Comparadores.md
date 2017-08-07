@@ -12,7 +12,3 @@
 11. [toBeGreaterthan](docs/toBeGreaterthan.md)
 12. [toThrow](/docs/toThrow.md)
 13. [toThrowError](/docs/toThrowError.md)
-
-
-
-                                                                                                                                                            [Home](../README.md)
