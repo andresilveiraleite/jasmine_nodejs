@@ -4,11 +4,13 @@ Deve ser utilizado para comparar valores de forma mais efetiva pelo fato de tamb
 
 Ex. do uso do comparador "toBe" validando um "Objeto":
     ```
-    describe("Comparador toBe", function(){
-        it("Deve Validar o uso do toBe", function(){
-            var obj1 = { valor: true};
-            var obj2 = { valor: true};
-            expect(obj1).toBe(obj2); // Validando um objeto.        
+    function comparadorTobe({
+        describe("Comparador toBe", function(){
+            it("Deve Validar o uso do toBe", function(){
+                var obj1 = { valor: true};
+                var obj2 = { valor: true};
+                expect(obj1).toBe(obj2); // Validando um objeto.        
+             })
         })
     })
     ```
