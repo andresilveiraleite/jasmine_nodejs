@@ -34,8 +34,8 @@ Ex. do uso do comparador "toBe" validando um valor boleano e uma string:
 ```js
     describe("Comparador toBe", function(){
         it("Deve Validar o uso do toBe", function(){
-            expect(true).toBe(true);
-            expect("Teste").toBe("Teste");
+            expect(true).toBe(true);        // Comparando um valor boleano.
+            expect("Teste").toBe("Teste");  // Comparando uma string.
     })
 })
 ```
