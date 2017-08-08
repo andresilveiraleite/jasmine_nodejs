@@ -1,3 +1,3 @@
-describe("Operação de Adição", function() {
+describe("Suíte - Operação de Adição", function() {
 
 });

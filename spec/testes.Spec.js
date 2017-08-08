@@ -1,4 +1,4 @@
-describe("Testes (specs)", function(){
+describe("Testes (sem 'specs')", function(){
   it("Deve Garantir que 'true' é 'true'", function(){
       
   });
