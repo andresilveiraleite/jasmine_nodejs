@@ -7,8 +7,12 @@ Ex.: Cadastro de Clientes - Operação Matemática - Calculadora
 Uma aplicação é composta por diversas suítes. No jasmine a suíte é uma função global chamada: Describe que possui dois parâmetros: Descrição e os testes (Specs).
 
 Describe é a suíte de teste: 
-Ex.: describe("Operação de Adição", function() {
+
+Ex.: 
+```js
+describe("Operação de Adição", function() {
 });
+```
 
 Obs.: Contém dois parâmetros: descrição e função.
 
