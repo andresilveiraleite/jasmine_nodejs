@@ -5,7 +5,9 @@ Um valor que não foi definido ou possui o valor "Undefined".
 
 Não recebe nenhum parâmetro, basta chamar a função diretamente, tendo referência a saída de um expect.
 
- PS: Evitem usar o not.toBeUndefined, pois já existe o "toBeDefined" e com isso o código fica de mais fácil compreensão.
+PS: Evitem usar o not.toBeUndefined, pois já existe o "toBeDefined" e com isso o código fica de mais fácil compreensão.
+
+Exemplo:
 
 ```js
 describe("Comparador toBeUndefined", function(){
