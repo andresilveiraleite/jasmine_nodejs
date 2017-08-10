@@ -13,7 +13,7 @@ describe("Suíte de Testes - Exemplo 'toBeNull'", function(){
     var texto;
     var numero = 10;
 
-    it("", function(){
+    it("deve validar o uso do matcher 'toBeNull'", function(){
         expect(objeto).toBeNull();  
         // A variável "Objeto" foi definida com o valor "null", logo a comparação será válida.
         
