@@ -33,4 +33,9 @@ describe("Comparador toBeTruthy", function(){
         var n7;
         expect(n7).not.toBeTruthy();  // Precisamos incluir a cláusula .not pois o objeto foi inicializado com "null".     
     })
+
+    it("deve validar o uso do toBeTruthy - Comparando Objeto do Tipo 'False'", function(){
+        var n8 = false;
+        expect(n8).not.toBeTruthy();  // Precisamos incluir a cláusula .not pois o objeto foi inicializado com "false".     
+    })
 })
