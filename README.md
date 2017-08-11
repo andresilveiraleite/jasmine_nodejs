@@ -17,3 +17,5 @@
 7. [Como validar e comparar resultados?](docs/ValidarECompararResultados.md)
 
 8. [Exemplos de Comparadores "Matchers"](docs/Comparadores.md)
+
+9. [Falha Manual "Fail"](docs/FalhaManual.md)
