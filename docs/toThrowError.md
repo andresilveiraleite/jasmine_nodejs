@@ -39,7 +39,7 @@ describe("Suíte de Testes - Exemplo 'toThrowError'", function(){
                 .toThrowError(typeError);
 
         expect(function(){calcularDobro(0) })
-                .toThrowError(typeError,"O número deve ser maior que 0.); 
+                .toThrowError(typeError,"O número deve ser maior que 0."); 
 
         expect(calcularDobro).not.toThrowError();     
     })
