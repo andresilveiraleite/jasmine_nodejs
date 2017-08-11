@@ -16,10 +16,10 @@ describe("", function(){
             callBack();  
         }
     };
-    it("Não deve executar a função de callBack", fucntion(){  
+    it("Não deve executar a função de callBack", function(){  
         operacao(false, function() {   
             // Chamada a função onde passo um valor se deve executar ou não e a função a ser chamada e caso não queira que essa função seja executada, colocaríamos um fail, conforme abaixo 
-            fail("Função de callBack foi executada");
+            fail("Função de callBack não foi executada");
         });
     });
 });
