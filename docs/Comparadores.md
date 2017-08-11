@@ -9,6 +9,6 @@
 8. [toBeFalsy](/docs/toBeFalsy.md)
 9. [toContain](/docs/toContain.md)
 10. [toBeLessThan](/docs/toBeLessThan.md)
-11. [toBeGreaterthan](docs/toBeGreaterThan.md)
+11. [toBeGreaterthan](/docs/toBeGreaterThan.md)
 12. [toThrow](/docs/toThrow.md)
 13. [toThrowError](/docs/toThrowError.md)
