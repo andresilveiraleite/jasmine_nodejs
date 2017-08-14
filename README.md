@@ -22,4 +22,4 @@
 
 10. [Executando Código Antes e Depois dos Testes / Suítes](docs/ExecCodigoAnteseDepois.md)
 
-11. [Aninhando Suítes de Testes](docs/aninhandoSuites.Spec.js)
+11. [Aninhando Suítes de Testes](docs/aninhandoSuites.md)
