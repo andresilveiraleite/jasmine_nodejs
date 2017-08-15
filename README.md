@@ -16,10 +16,10 @@
 
 7. [Como validar e comparar resultados?](docs/ValidarECompararResultados.md)
 
-8. [Exemplos de Comparadores "Matchers"](docs/Comparadores.md)
+8. [Exemplos de Comparadores "Matchers"](docs/comparadores/Comparadores.md)
 
 9. [Falha Manual "Fail"](docs/FalhaManual.md)
 
-10. [Executando Código Antes e Depois dos Testes / Suítes](docs/ExecCodigoAnteseDepois.md)
+10. [Executando Código Antes e Depois dos Testes / Suítes](docs/execucaoCodigoAntesEDepois/ExecCodigoAnteseDepois.md)
 
 11. [Aninhando Suítes de Testes](docs/aninhandoSuites.md)

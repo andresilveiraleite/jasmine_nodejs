@@ -11,7 +11,7 @@ Permite executar um mesmo código antes e/ou depois de cada Suíte.
 
 ### Para isso iremos nos aprofundar nas seguintes funções especiais:
 
-1. [beforeEach](/docs/beforeEach.md)
-2. [afterEach](/docs/afterEach.md)
-3. [beforeAll](/docs/beforeAll.md)
-4. [afterAll](/docs/afterAll.md)
+1. [beforeEach](/docs/execucaoCodigoAntesEDepois/beforeEach.md)
+2. [afterEach](/docs/execucaoCodigoAntesEDepois/afterEach.md)
+3. [beforeAll](/docs/execucaoCodigoAntesEDepois/beforeAll.md)
+4. [afterAll](/docs/execucaoCodigoAntesEDepois/afterAll.md)
