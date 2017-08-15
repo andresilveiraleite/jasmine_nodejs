@@ -7,7 +7,7 @@
 6. [toBeNull](/docs/comparadores/toBeNull.md)
 7. [toBeTruthy](/docs/comparadores/toBeTruthy.md)
 8. [toBeFalsy](/docs/comparadores/toBeFalsy.md)
-9. [toContain](/docs/toContain.md)
+9. [toContain](/docs/comparadores/toContain.md)
 10. [toBeLessThan](/docs/comparadores/toBeLessThan.md)
 11. [toBeGreaterthan](/docs/comparadores/toBeGreaterthan.md)
 12. [toThrow](/docs/comparadores/toThrow.md)
