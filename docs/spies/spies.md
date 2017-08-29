@@ -1,4 +1,4 @@
-# Spies - MOckObjects
+# Spies - MockObjects
 ## São objetos que simulam o comportamento de objetos reais de forma controlada. São normalmente criados para testar o comportamento de outros objetos.
 
 ### Servem para simular um determinado funcionamento, sem utilizar um recurso específico ou dependências externas.
