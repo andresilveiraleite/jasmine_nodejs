@@ -1,1 +1,1 @@
-# and.ThrowError
+# and.throwError
