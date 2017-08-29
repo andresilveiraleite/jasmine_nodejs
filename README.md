@@ -23,3 +23,7 @@
 10. [Executando Código Antes e Depois dos Testes / Suítes](docs/execucaoCodigoAntesEDepois/ExecCodigoAnteseDepois.md)
 
 11. [Aninhando Suítes de Testes](docs/aninhandoSuites.md)
+
+12. [Desabilitando Suítes de Testes](docs/desabilitandoSuites.md)
+
+13. [Spies - Mock Objects]()
