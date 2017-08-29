@@ -19,7 +19,7 @@ O Jasmine possui uma série de funções auxiliares para realizarmos essas simul
 8. [and.callFake](/docs/spies/08_and.callFake.md)
 9. [and.throwError](/docs/spies/09_and.throwError.md)
 10. [calls.any](/docs/spies/10_calls.any.md)
-11. [calls.Count](/docs/11_calls.count.md)
+11. [calls.count](/docs/spies/11_calls.count.md)
 12. [calls.argsFor](/docs/spies/12_calls.argsFor.md)
 13. [calls.allArgs](/docs/spies/13_calls.allArgs.md)
 14. [calls.all](/docs/spies/14_calls.all.md)
