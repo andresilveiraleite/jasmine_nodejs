@@ -11,7 +11,7 @@ O Jasmine possui uma série de funções auxiliares para realizarmos essas simul
 
 1. [spyOn](/docs/spies/01_spyOn.md)
 2. [toHaveBeenCalled](/docs/spies/02_toHaveBeenCalled.md)
-3. [toHaveBeenCalledTimes]/(docs/spies/03_toHaveBeenCalledTimes.md)
+3. [toHaveBeenCalledTimes](/docs/spies/03_toHaveBeenCalledTimes.md)
 4. [toHaveBeenCalledWith](/docs/spies/04_toHaveBeenCalledWith.md)
 5. [and.CallThrough](/docs/spies/05_and.CallThrough)
 6. [and.returnValue](/docs/spies/06_and.returnValue.md)
