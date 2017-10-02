@@ -1,4 +1,4 @@
-describe("Teste do objeto spyOn", function(){
+describe("Spies - Mock Object - spyOn", function(){
     var Calculadora = {
         somar: function(n1, n2) {
             return n1 + n2;
