@@ -19,7 +19,7 @@ describe("Spies - Mock Object - Validar o uso do 'toHaveBeenCalledTimes'", funct
         calculadora.somar(1,1);
         calculadora.somar(2,2);
         expect(Calculadora.somar).toHaveBeenCalledTimes(2); 
-        // verifica se realmente o método 'somar' foi chamado
+        // verifica se realmente o método 'somar' foi chamado 2X
     });
 });
 ```
