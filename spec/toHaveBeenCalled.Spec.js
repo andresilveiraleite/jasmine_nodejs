@@ -15,7 +15,7 @@ describe("Spies - toHaveBeenCalled - Validar se um método foi chamado ao menos 
 
     it("Deve chamar o método somar e validar se foi chamado", function(){
         Calculadora.somar(1,1);  // Método Somar chamado.
-        expect(Calculadora.somar).toHaveBeenCalled();// Validando se o método foi chamado.
+        expect(Calculadora.somar).toHaveBeenCalled();// Validando se o método foi chamado .
     });
 });
 
