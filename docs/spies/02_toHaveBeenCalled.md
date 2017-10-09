@@ -2,6 +2,7 @@
 ## Informa se um método do spy foi executado ao menos 1 x
 ### Não possui parâmetros (booleano) e serve apenas para nos informar se houve retorno ou não de uma chamada. *** Serve para confirmar se um método foi executado ou não.
 
+Exemplo:
 
 ```js
 describe("Spies - Mock Object - Validar o uso do 'toHaveBeenCalled'", function(){

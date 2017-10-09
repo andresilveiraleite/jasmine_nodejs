@@ -1,4 +1,4 @@
-describe("Spies - toHaveBeenCalledWith - Validar os valores da chamada do método do spy ", function(){
+describe("Spies - Função 'toHaveBeenCalledWith' - Validar os valores da chamada do método do spy ", function(){
     var calculadora = {
         somar: function(n1, n2) {
             return n1 + n2;

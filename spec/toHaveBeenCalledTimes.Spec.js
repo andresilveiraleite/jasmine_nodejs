@@ -1,11 +1,11 @@
-describe("Spies - toHaveBeenCalledTimes - Validar se um método foi chamado 2 x", function(){
+describe("Spies - Função 'toHaveBeenCalledTimes' - Validar se um método foi chamado 2 x", function(){
     var Calculadora = {
         somar: function(n1, n2) {
             return n1 + n2;
         }
     };
 
-    beforeAll(function() {
+    beforeEach(function() {
         spyOn(Calculadora, "somar");
     });
 

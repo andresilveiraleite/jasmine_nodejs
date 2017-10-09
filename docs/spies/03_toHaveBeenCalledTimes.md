@@ -2,6 +2,7 @@
 ## Informa a quantidade de vezes que um método do spy foi executado
 ### Recebe como parâmetro o número de execuções a ser verificada
 
+Exemplo:
 
 ```js
 describe("Spies - Mock Object - Validar o uso do 'toHaveBeenCalledTimes'", function(){

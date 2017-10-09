@@ -1,11 +1,11 @@
-describe("Spies - toHaveBeenCalled - Validar se um método foi chamado ao menos 1 x", function(){
+describe("Spies - Função 'toHaveBeenCalled' - Validar se um método foi chamado ao menos 1 x", function(){
     var Calculadora = {
         somar: function(n1, n2) {
             return n1 + n2;
         }
     };
 
-    beforeAll(function() {
+    beforeEach(function() {
         spyOn(Calculadora, "somar");
     });
 

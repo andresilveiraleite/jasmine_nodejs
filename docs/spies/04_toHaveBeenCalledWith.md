@@ -2,6 +2,7 @@
 ## Verificar com quais parâmetros um método do spy foi chamado
 ### Recebe como parâmetro os valores da chamada do método do spy (separados por vírgula) 
 
+Exemplo:
 
 ```js
 describe("Spies - Mock Object - Validar o uso do 'toHaveBeenCalledWith'", function(){
