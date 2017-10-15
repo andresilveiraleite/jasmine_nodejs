@@ -37,9 +37,18 @@ describe("Spies - Mock Object - Validar o uso do 'calls.all", function(){
     });
 });
 ```                                       
-                                                                                   
-                                                                                   
-                                                                                   
+
+
+
+[Home](https://github.com/andresilveiraleite/jasmine_nodejs/tree/master/docs/spies.md)       
+
+
+
+
+[Home](https://github.com/andresilveiraleite/jasmine_nodejs.README.md)       
+
+                                                                            
+                                             
                                                                                    
                                                                                    
                                                                                    
