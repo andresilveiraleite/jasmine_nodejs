@@ -15,6 +15,6 @@ xdescribe("Exemplo de Suíte de teste ", function(){
         expect(contador).toEqual(1)
     })
 })
-´´´
+```
 
 [Home](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/README.md)  

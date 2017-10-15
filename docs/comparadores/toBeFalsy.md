@@ -24,5 +24,6 @@ describe("Suíte de Testes - Exemplo 'toBeFalsy'", function(){
         expect("false").not.toBeFalsy(); //Trata-se de uma string, logo não é um valor inválido.
     })
 )
+```
 
 [Voltar](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/docs/comparadores/Comparadores.md)  

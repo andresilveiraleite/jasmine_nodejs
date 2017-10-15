@@ -24,6 +24,6 @@
 
 11. [Aninhando Suítes de Testes](docs/aninhandoSuites.md)
 
-12. [Desabilitando Suítes de Testes](docs/desabilitandoSuites.md)
+12. [Desabilitando Suítes de Testes](docs/DesabilitandoSuites.md)
 
 13. [Spies - Mock Objects](docs/spies/spies.md)
