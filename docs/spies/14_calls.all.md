@@ -36,7 +36,11 @@ describe("Spies - Mock Object - Validar o uso do 'calls.all", function(){
  
     });
 });
-``` 
-
-
-                                                                                    [Voltar](spies/spies.md)    
+```                                       
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
