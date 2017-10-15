@@ -29,3 +29,5 @@ describe("Suíte de Testes - Exemplo 'afterAll'", function(){
     });
 })
 ```
+
+[Voltar](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/docs/execucaoCodigoAntesEDepois/ExecCodigoAnteseDepois.md)  

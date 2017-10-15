@@ -41,3 +41,6 @@ Ex. do uso do comparador "toBe" validando um valor boleano e uma string:
 ```
 
 ==> Teremos a exibição de sucesso para essas comparações.
+
+
+[Voltar](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/docs/comparadores/Comparadores.md)  

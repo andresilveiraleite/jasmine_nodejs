@@ -12,3 +12,5 @@
 11. [toBeGreaterthan](/docs/comparadores/toBeGreaterthan.md)
 12. [toThrow](/docs/comparadores/toThrow.md)
 13. [toThrowError](/docs/comparadores/toThrowError.md)
+
+[Home](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/README.md)  

@@ -24,3 +24,5 @@ describe("Suíte de Testes - Exemplo 'toContain", function(){
     })
 })
 ```
+
+[Voltar](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/docs/comparadores/Comparadores.md)  

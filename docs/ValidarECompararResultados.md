@@ -21,3 +21,6 @@ toBe, toEqual, toMatch, toBeDefined, toBeUndefined, toBeNull, toBeTruthy, toBeFa
 toBeLessThan, toBeGreaterthan, toThrow e toThrowError.
 	
 Obs.: Podemos criar nossos próprios Matchers (caso seja necessário) e devemos lembrar que todos os matchers existentes no Jasmine pode ser "negado" através da palavra "Not".
+
+[Home](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/README.md)  
+
