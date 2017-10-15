@@ -30,6 +30,8 @@ O Jasmine possui uma série de funções auxiliares para realizarmos essas simul
 19. [createSpyObj](/docs/spies/19_createSpyObj.md)
 
 
+
+
 [Home](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/README.md)  
 
 

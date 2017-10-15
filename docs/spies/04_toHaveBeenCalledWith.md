@@ -25,3 +25,5 @@ describe("Spies - Mock Object - Validar o uso do 'toHaveBeenCalledWith'", functi
     });
 });
 ```
+
+[Voltar](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/docs/spies/spies.md)  

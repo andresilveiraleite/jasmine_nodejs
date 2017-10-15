@@ -24,3 +24,5 @@ describe("Spies - Mock Object - Validar o uso do 'and.returnValue'", function(){
     });
 });
 ```
+
+[Voltar](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/docs/spies/spies.md)  

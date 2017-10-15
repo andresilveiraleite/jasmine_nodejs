@@ -27,3 +27,5 @@ describe("Spies - Função 'and.throwError'- Validar o retorno da mensagem de er
 });
 ```
 
+[Voltar](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/docs/spies/spies.md)  
+
