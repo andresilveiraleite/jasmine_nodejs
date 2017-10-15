@@ -38,4 +38,4 @@ describe("Spies - Mock Object - Validar o uso do 'calls.all", function(){
 });
 ```                                       
 
-[Voltar](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/spies.md)  
+[Voltar](https://github.com/andresilveiraleite/jasmine_nodejs/blob/master/docs/spies/spies.md)  
