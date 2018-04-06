@@ -31,7 +31,7 @@ describe("Spies - Mock Object - Validar o uso do 'calls.mostRecent", function(){
         // Atribuo a varíavel retorno a última chamada do objeto/método "somar".
         
         expect(retorno.object).toEqual(calculadora);
-        //Validamos se utilizando a função supracitada
+        //Validamos se utiliza a função supracitada
        
         expect(retorno.args).toEqual([2,3]);
         //Validamos se busca a última posição do array - 2, 3.

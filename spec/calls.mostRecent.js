@@ -35,8 +35,6 @@ describe("Spies - Função 'calls.mosRecent' - Validar retorno da última chamad
             expect(retorno.args).toEqual([2,2]);
             //Validamos se no array na última posição existem os argumentos 2,2.
 
-            expect(retorno.args).toEqual([2,2]);
-            //Validamos se no array na última posição existem os argumentos 2,2.
         });
 
         it("deve validar o uso da função 'calls.mostRecent' validando o retorno do valor da Soma definido como 10", function() {
